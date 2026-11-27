@@ -1,4 +1,5 @@
 # 📡 Nigerian Telecoms (15,000 Customers): Python Data Cleaning, EDA & Machine Learning Churn Prediction
+### 🚀 [Click Here to Launch the Live Interactive Streamlit ML Web App!](https://nigeria-telecom-15k-churn-python-and-machine-learning-suwci4w3.streamlit.app)
 **Tools Used:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`) | Jupyter Notebook (`.ipynb`) | Random Forest Classifier (`84.60% Accuracy`)
 
 ## 📌 Executive Summary
